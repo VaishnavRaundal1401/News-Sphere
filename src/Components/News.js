@@ -26,7 +26,7 @@ const News = (props)=> {
 
     useEffect(() => {
       updateNews();
-    },[])
+    },)
     
 
     // handleNext = async () =>{
